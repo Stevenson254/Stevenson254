@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Microsoft SC-200 Course and Software Testing**
 
-- 📝 I regularly write articles on [Cybersecurity](Cybersecurity)
+- 📝 I regularly write articles on [Cybersecurity](https://www.linkedin.com/pulse/your-password-sucks-heres-intervention-you-need-steven-odhiambo-hse9f/)
 
 - 💬 Ask me about **Security Operation Centre**
 
